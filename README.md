@@ -39,7 +39,8 @@ Contributions are welcome! Feel free to fork the project and submit pull request
 
 ## License
 
-This project is released under the MIT License. See the `LICENSE` file for more details.
+This project is released under the GNU General Public License v3.0, 29 June 2007. For more details, see the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
+
 
 ## Disclaimer
 
